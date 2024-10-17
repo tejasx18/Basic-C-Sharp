@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="automorphic.cs" />
     <Compile Include="CheckCharacter.cs" />
+    <Compile Include="demo.cs" />
     <Compile Include="DivisibleBy5and11.cs" />
     <Compile Include="EmployeeSalary.cs" />
     <Compile Include="EvenNumbers.cs" />
